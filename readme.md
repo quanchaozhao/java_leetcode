@@ -1,1 +1,1 @@
-Redcorder some algorthim in leetcode.
+Redcord some algorthim in leetcode.
