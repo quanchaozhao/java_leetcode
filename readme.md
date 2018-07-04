@@ -1,1 +1,1 @@
-Redcord some algorthim in leetcode.
+Record the problems encountered on LeetCode
